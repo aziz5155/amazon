@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	7aRNZcj%2Fi89jZRQ0J0X1O8LFVdz2MiQWscBAqC22%2BzwCGmkzVHucXLN%2Fzvcav249RBbgMcHFkztZEL3u%2B3Svk4fKPzV0GouROt69jgL2OQ4NsAIRDUHGSDt7jxm53oHRIKRsyS5I0ZtMpPsYA0cBxTMethHAuxLdie5RVbCClACwaLjVSn2vbvtu26SA5YryKurGyE1yVpaxZNlZLOMJYCtAjWU3gePIHOB%2BjmLXX7kRqzPiDU01WMIfqA7DhtG7nYyzQXh1PFyPtxzdcOTpew%3D%3D--HIYRfXb5ExWg9GS3--k8oNDqqVBjCpqcgSXmwIIg%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.183951094.1720340576
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.amazon.com	TRUE	/	FALSE	1999999999	session-id	132-7870529-7961222
+.amazon.com	TRUE	/	FALSE	1999999999	session-id-time	2082787201l
+.amazon.com	TRUE	/	FALSE	1999999999	i18n-prefs	USD
+.amazon.com	TRUE	/	FALSE	1999999999	sp-cdn	L5Z9:SA"
+.amazon.com	TRUE	/	FALSE	1999999999	skin	noskin
+
